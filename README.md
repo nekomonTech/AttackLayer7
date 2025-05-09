@@ -5,8 +5,8 @@
 - Bypass Cloudflare (gak ganas)
 - bapakmu
 ***Installation***
-  ```bash
- pkg install git -y 
+ ```bash
+ pkg install git -y
  pkg install python -y
  pip install requests
  pip install colorama
